@@ -1,0 +1,34 @@
+[
+	{
+		"op" : "add",
+		"path" : "/mechlegsavali",
+		"value" : {
+			"stats" : {
+				"speed" : 8,
+				"jump" :6
+			},
+			"partParameters" : {},
+			"partImages" : {
+				"backLeg" : "leg/avali.png",
+				"backLegFullbright" : "leg/avali_fullbright.png",
+				"backLegJoint" : "legjoint/avali.png",
+				"frontLeg" : "leg/avali.png",
+				"frontLegFullbright" : "leg/avali_fullbright.png",
+				"frontLegJoint" : "legjoint/avali.png",
+				"hips" : "hips/avali.png"
+			},
+			"defaultPrimaryColors" : ["b2e89d", "51bd3b", "247824", "144216"],
+			"defaultSecondaryColors" : ["838383", "555555", "383838", "151515"],
+			"animationCustom" : {
+				"animatedParts" : { "parts" : {
+					"frontLegFullbright" : { "properties" : {
+					  "offset" : [-1.25, -3.2]
+					}},
+					"backLegFullbright" : { "properties" : {
+						"offset" : [1.4, -3.2]
+					}}
+			    }}
+			}
+		}
+	}
+]

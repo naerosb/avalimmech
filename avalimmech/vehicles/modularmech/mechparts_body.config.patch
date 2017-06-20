@@ -1,0 +1,26 @@
+[
+	{
+		"op" : "add",
+		"path" : "/mechbodyavali",
+		"value" : {
+			"stats" : {
+				"energy" : 8,
+				"protection" : 6 
+			},
+			"partParameters" : {},
+			"partImages" : {
+				"bodyBack" : "body/avali_back.png",
+				"bodyFront" : "body/avali_front.png",
+				"bodyFullbright" : "body/avali_fullbright.png"
+			},
+			"defaultPrimaryColors" : ["ffdfb3", "fcb95e", "c47027", "994d1b"],
+			"defaultSecondaryColors" : ["bb2f3c", "bb2f3c", "8e212c", "000000"],
+			"animationCustom" : {
+				"animatedParts" : { "parts" : { "bodyFront" : { "properties" : {
+					"sitPosition" : [1.9, 0.3]
+				}}}}
+			}
+		}
+    }
+]
+	

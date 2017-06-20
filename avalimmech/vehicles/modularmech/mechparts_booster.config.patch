@@ -1,0 +1,34 @@
+[
+	{
+		"op" : "add",
+		"path" : "/mechboosteravali",
+		"value" : {
+			"stats" : {
+			  "speed" : 8,
+			  "control" :6 
+			},
+			"partParameters" : {},
+			"partImages" : {
+			  "backBoosterBack" : "booster/avali_back_back.png",
+			  "backBoosterFullbright" : "boosterflame/avali.png",
+			  "backBoosterFront" : "booster/avali_back_front.png",
+			  "frontBoosterBack" : "booster/avali_front_back.png",
+			  "frontBoosterFullbright" : "boosterflame/avali.png",
+			  "frontBoosterFront" : "booster/avali_front_front.png"
+			},
+			"defaultPrimaryColors" : ["f4988c", "d93a3a", "932625", "601119"],
+			"defaultSecondaryColors" : ["9da8af", "676f83", "3d3d51", "24232f"],
+			"animationCustom" : {
+			  "animatedParts" : { "parts" : {
+				"frontBoosterFullbright" : { "properties" : {
+					"offset" : [-3.85, 0.5],
+				  "zLevel" : 10.5
+				}},
+				"backBoosterFullbright" : { "properties" : {
+						"offset" : [0.9, 0.5]
+				}}
+			  }}
+			}
+		}
+	}
+]

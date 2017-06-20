@@ -1,0 +1,9 @@
+{
+  "author" : "Wolf",
+  "description" : "The MM4-A \"Wasp,\" a mech for the space-faring Avali!\n\n[h1]Still a Work in Progress[/h1]\nI'm still doing my best to work out kinks in the sprites. The recipes for the parts should already show up in the mech crafting station. I'll probably change this and If not, I'll maybe make it harder to craft each mech piece.\n\nThis is also my first \"real\" mod. I think its fair to say my pixel art endeavors only started this weekend, and therefore the mod might not be as pristine as I wish it to be. I will however do my best to keep the sprites up to some standard.\n\n[h1]Currently Working On...[/h1]\n[b]Modifying shading detail to body and boosters[/b]\nIt can be better! Mostly the mech looks too 'flat.'\n\n[b]Leg reskins (and/or rework)[/b]\nI rushed the legs, and I paid the price.\n\n[b]Gatling Railgun[/b]\nAn arm weapon piece. No ETA yet, but I've started work.\n\n[h1]FAQ[/h1]\n[b]There are some interesting (bad) details in the sprites...[/b]\nBleh, not a pixel artist or artist for that sake, but I'm trying my best!\n\n[b]Some of the flames look weird[/b]\nThey were rushed under the influence of wine. Will rework soon.\n\n[b]The legs are ugly[/b]\nI agree.\n\n[b]XS Mechs: Modular Edition Compatibility?[/b]\nI don't wanna. Maybe. Soon? I dunnoe. Maybe if I drink enough wine.\n\n[b]I have a suggestion![/b]\nPost it under discussions, I'd love to hear it.\n\n[b]I have (found) a bug![/b]\nWrite up a report in the discussions, I'll do my best to solve.\n\n[h1]Item IDs[/h1]\n[i]For those who just want see how the mech works and/or too lazy to gather the crafting materials[/i]\n\nMM4-A Wasp Body: [b]avalibody[/b]\nMM4-A Wasp Boosters: [b]avalibooster[/b]\nMM4-A Wasp Leggings: [b]avalileg[/b]",
+  "friendlyName" : "Avali Modular Mech",
+  "link" : "steam://url/CommunityFilePage/950340366",
+  "name" : "mechavali",
+  "steamContentId" : "950340366",
+  "version" : "0.1.0"
+}
