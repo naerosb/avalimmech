@@ -1,10 +1,16 @@
-pak="avalidronepet.pak"
-packer="asset_packer"
+# Make sure to change this!!!
+modname="avalimmech"
 
-if [[ $1 == "avalidronepet-ppets" ]]; then
-    pak="avalidronepet-ppets.pak"
-fi
+pak=$modname".pak"
+dir=$modname
+
+packer="asset_packer"
+starboundmoddir=/c/Program\ Files\ \(x86\)/Steam/steamapps/common/Starbound/mods
 
 mkdir "packed"
-command=$packer" ./"$1" ./packed/"$pak
+command=$packer" ./"$dir" ./packed/"$pak
 eval ${command}
+
+if [[ $1 == "install" ]]; then
+  mv ./packed/$pak "$starboundmoddir/"$pak
+fi
