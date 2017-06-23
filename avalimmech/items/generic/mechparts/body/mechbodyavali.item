@@ -1,13 +1,13 @@
 {
   "itemName" : "mechbodyavali",
-  "price" : 3200,
+  "price" : 11200,
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "mechPart",
   "tooltipKind" : "mechbody",
   "builder" : "/items/buildscripts/buildmechpart.lua",
   "inventoryIcon" : "mechbodyavali.png",
-  "description" : "The Avali Wasp excels at tasks that need agility. Great at shock and awe.",
+  "description" : "The Avali Wasp excels at tasks that need speed. Great at shock and awe.",
   "shortdescription" : "MM4-A Wasp Body",
   "itemTags" : [ ],
 

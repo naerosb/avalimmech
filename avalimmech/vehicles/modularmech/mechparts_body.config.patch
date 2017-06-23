@@ -4,8 +4,8 @@
 		"path" : "/mechbodyavali",
 		"value" : {
 			"stats" : {
-				"energy" : 8,
-				"protection" : 6 
+				"energy" : 7,
+				"protection" : 5 
 			},
 			"partParameters" : {},
 			"partImages" : {
@@ -27,8 +27,8 @@
 		"path" : "/mechbodyavaliproto",
 		"value" : {
 			"stats" : {
-				"energy" : 8,
-				"protection" : 6 
+				"energy" : 7,
+				"protection" : 8 
 			},
 			"partParameters" : {},
 			"partImages" : {
@@ -50,7 +50,7 @@
 		"path" : "/mechbodyavalinezo",
 		"value" : {
 			"stats" : {
-				"energy" : 8,
+				"energy" : 7,
 				"protection" : 6 
 			},
 			"partParameters" : {},

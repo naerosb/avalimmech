@@ -1,0 +1,10 @@
+[
+	{
+		"op" : "add",
+		"path" : "/recipes/4",
+		"value" : [
+			"mechboosteravaliproto",
+			"mechboosteravalinezo"
+		]
+	}
+]

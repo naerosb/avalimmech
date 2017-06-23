@@ -1,17 +1,17 @@
 [
-    {
-        "op": "add",
-        "path": "/defaultBlueprints/tier1/0",
-        "value": {"item": "mechbodyavali"}
-    },
-    {
-        "op": "add",
-        "path": "/defaultBlueprints/tier1/0",
-        "value": {"item": "mechboosteravali"}
-    },
-    {
-        "op": "add",
-        "path": "/defaultBlueprints/tier1/0",
-        "value": {"item": "mechlegsavali"}
-    }
+  {
+    "op" : "add",
+    "path" : "/defaultBlueprints/tier1/0",
+    "value" : { "item" : "mechbodyavali" }
+  },
+  {
+    "op" : "add",
+    "path" : "/defaultBlueprints/tier1/0",
+    "value" : { "item": "mechboosteravali" }
+  },
+  {
+    "op" : "add",
+    "path" : "/defaultBlueprints/tier1/0",
+    "value" : { "item": "mechlegsavali" }
+  }
 ]

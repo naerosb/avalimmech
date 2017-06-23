@@ -1,14 +1,14 @@
 {
   "itemName" : "mechbodyavaliproto",
-  "price" : 6720,
+  "price" : 15200,
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "mechPart",
   "tooltipKind" : "mechbody",
   "builder" : "/items/buildscripts/buildmechpart.lua",
-  "inventoryIcon" : "mechboosteravali.png",
-  "description" : "The Wasp prototype has some new plated armor, giving it a considerable increase in defense.",
-  "shortdescription" : "MM4-AP Wasp Body",
+  "inventoryIcon" : "mechbodyavaliproto.png",
+  "description" : "This prototype is a newer version of the MM4 assault mech. Is it stable?",
+  "shortdescription" : "MM5-AP Wasp Body",
   "itemTags" : [ ],
 
   "mechPart" : ["body", "mechbodyavaliproto"]

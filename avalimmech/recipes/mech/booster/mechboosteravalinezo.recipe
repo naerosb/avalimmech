@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "corefragmentore", "count" : 20},
+    { "item" : "mechboosteravali", "count" : 1}
+  ],
+  "duration" : 5,
+  "output" : { "item" : "mechboosteravalinezo", "count" : 1 },
+  "groups" : [ "craftingmech", "mechbooster" ]
+}

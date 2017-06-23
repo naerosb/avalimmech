@@ -4,31 +4,32 @@
 		"path" : "/mechboosteravali",
 		"value" : {
 			"stats" : {
-			  "speed" : 8,
-			  "control" :6 
+			  "speed" : 7,
+			  "control" : 5 
 			},
 			"partParameters" : {},
 			"partImages" : {
 			  "backBoosterBack" : "booster/avali_back_back.png",
-			  "backBoosterFullbright" : "boosterflame/avali.png",
+			  "backBoosterFullbright" : "boosterflame/avali_back_flames.png",
 			  "backBoosterFront" : "booster/avali_back_front.png",
 			  "frontBoosterBack" : "booster/avali_front_back.png",
-			  "frontBoosterFullbright" : "boosterflame/avali.png",
+			  "frontBoosterFullbright" : "boosterflame/avali_front_flames.png",
 			  "frontBoosterFront" : "booster/avali_front_front.png"
 			},
-			"defaultPrimaryColors" : ["f4988c", "d93a3a", "932625", "601119"],
-			"defaultSecondaryColors" : ["9da8af", "676f83", "3d3d51", "24232f"],
+			"defaultPrimaryColors" : ["f0f0f0", "f48000", "404040", "696a6a"],
+			"defaultSecondaryColors" : ["f0f0f0", "f48000", "404040", "696a6a"],
 			"animationCustom" : {
 			  "animatedParts" : { "parts" : {
-				"frontBoosterFullbright" : { "properties" : {
-					"offset" : [-3.85, 0.5],
-				  "zLevel" : 10.5
-				}},
-				"backBoosterFullbright" : { "properties" : {
-						"offset" : [0.9, 0.5]
-				}}
-			  }}
-			}
+          "frontBoosterFullbright" : { "properties" : {
+            "offset" : [-3.1, -0.15],
+            "zLevel" : 10.5
+          }},
+          "backBoosterFullbright" : { "properties" : {
+              "offset" : [1.5, -0.15],
+              "zLevel": 1 
+          }}
+			  }} // animatedParts
+			} // animatedCustom
 		}
 	},
 	{
@@ -36,31 +37,32 @@
 		"path" : "/mechboosteravaliproto",
 		"value" : {
 			"stats" : {
-			  "speed" : 8,
-			  "control" :6 
+			  "speed" : 7,
+			  "control" : 6 
 			},
 			"partParameters" : {},
 			"partImages" : {
 			  "backBoosterBack" : "booster/avali_back_back.png",
-			  "backBoosterFullbright" : "boosterflame/avali.png",
+			  "backBoosterFullbright" : "boosterflame/avali_proto_back_flames.png",
 			  "backBoosterFront" : "booster/avali_proto_back_front.png",
 			  "frontBoosterBack" : "booster/avali_front_back.png",
-			  "frontBoosterFullbright" : "boosterflame/avali.png",
+			  "frontBoosterFullbright" : "boosterflame/avali_proto_front_flames.png",
 			  "frontBoosterFront" : "booster/avali_proto_front_front.png"
 			},
 			"defaultPrimaryColors" : ["f4988c", "d93a3a", "932625", "601119"],
 			"defaultSecondaryColors" : ["9da8af", "676f83", "3d3d51", "24232f"],
 			"animationCustom" : {
 			  "animatedParts" : { "parts" : {
-				"frontBoosterFullbright" : { "properties" : {
-					"offset" : [-3.1, -0.15],
-				  "zLevel" : 10.5
-				}},
-				"backBoosterFullbright" : { "properties" : {
-						"offset" : [0.9, 0.5]
-				}}
-			  }}
-			}
+          "frontBoosterFullbright" : { "properties" : {
+            "offset" : [-3.1, -0.15],
+            "zLevel" : 10.5
+          }},
+          "backBoosterFullbright" : { "properties" : {
+              "offset" : [1.5, -0.15],
+              "zLevel": 1 
+          }}
+			  }} // animatedParts
+			} // animatedCustom
 		}
 	},
 	{
@@ -68,31 +70,32 @@
 		"path" : "/mechboosteravalinezo",
 		"value" : {
 			"stats" : {
-			  "speed" : 8,
-			  "control" :6 
+			  "speed" : 7,
+			  "control" : 8 
 			},
 			"partParameters" : {},
 			"partImages" : {
 			  "backBoosterBack" : "booster/avali_back_back.png",
-			  "backBoosterFullbright" : "boosterflame/avali.png",
+			  "backBoosterFullbright" : "boosterflame/avali_nezo_back_flames.png",
 			  "backBoosterFront" : "booster/avali_nezo_back_front.png",
 			  "frontBoosterBack" : "booster/avali_front_back.png",
-			  "frontBoosterFullbright" : "boosterflame/avali.png",
+			  "frontBoosterFullbright" : "boosterflame/avali_nezo_front_flames.png",
 			  "frontBoosterFront" : "booster/avali_nezo_front_front.png"
 			},
 			"defaultPrimaryColors" : ["f4988c", "d93a3a", "932625", "601119"],
 			"defaultSecondaryColors" : ["9da8af", "676f83", "3d3d51", "24232f"],
 			"animationCustom" : {
 			  "animatedParts" : { "parts" : {
-				"frontBoosterFullbright" : { "properties" : {
-					"offset" : [-3.1, -0.15],
-				  "zLevel" : 10.5
-				}},
-				"backBoosterFullbright" : { "properties" : {
-						"offset" : [0.9, 0.5]
-				}}
-			  }}
-			}
+          "frontBoosterFullbright" : { "properties" : {
+            "offset" : [-3.2, -0.15],
+            "zLevel" : 10.5
+          }},
+          "backBoosterFullbright" : { "properties" : {
+              "offset" : [1.5, -0.15],
+              "zLevel": 1 
+          }}
+			  }} // animatedParts
+			} // animationCustom
 		}
 	}
 ]

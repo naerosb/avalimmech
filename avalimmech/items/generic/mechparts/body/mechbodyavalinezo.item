@@ -1,13 +1,13 @@
 {
   "itemName" : "mechbodyavalinezo",
-  "price" : 6720,
+  "price" : 15600,
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "mechPart",
   "tooltipKind" : "mechbody",
   "builder" : "/items/buildscripts/buildmechpart.lua",
-  "inventoryIcon" : "mechboosteravali.png",
-  "description" : "Whoever that Nezo is, either likes interesting decals or was just running out of paint.",
+  "inventoryIcon" : "mechbodyavalinezo.png",
+  "description" : "Whoever that Nezo is either likes intricate decals or was just running out of paint.",
   "shortdescription" : "MM4-N Wasp Body",
   "itemTags" : [ ],
 
