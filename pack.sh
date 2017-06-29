@@ -12,5 +12,5 @@ command=$packer" ./"$dir" ./packed/"$pak
 eval ${command}
 
 if [[ $1 == "install" ]]; then
-  mv ./packed/$pak "$starboundmoddir/"$pak
+  cp ./packed/$pak "$starboundmoddir/"$pak
 fi

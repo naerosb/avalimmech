@@ -16,8 +16,8 @@
 			  "frontBoosterFullbright" : "boosterflame/avali_front_flames.png",
 			  "frontBoosterFront" : "booster/avali_front_front.png"
 			},
-			"defaultPrimaryColors" : ["f0f0f0", "f48000", "404040", "696a6a"],
-			"defaultSecondaryColors" : ["f0f0f0", "f48000", "404040", "696a6a"],
+			"defaultPrimaryColors" : ["f0f0f0", "c7c7c7", "969696", "696a6a"],
+			"defaultSecondaryColors" : ["ffbd4c", "f48000", "404040", "000000"],
 			"animationCustom" : {
 			  "animatedParts" : { "parts" : {
           "frontBoosterFullbright" : { "properties" : {

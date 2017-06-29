@@ -7,14 +7,16 @@
 				"energy" : 7,
 				"protection" : 5 
 			},
-			"partParameters" : {},
+			"partParameters" : {
+        "hazardImmunities" : ["biomeradiation", "biomeheat", "biomecold"]
+      },
 			"partImages" : {
 				"bodyBack" : "body/avali_back.png",
 				"bodyFront" : "body/avali_front.png",
 				"bodyFullbright" : "body/avali_fullbright.png"
 			},
-			"defaultPrimaryColors" : ["ffdfb3", "fcb95e", "c47027", "994d1b"],
-			"defaultSecondaryColors" : ["bb2f3c", "bb2f3c", "8e212c", "000000"],
+			"defaultPrimaryColors" : ["f0f0f0", "cecece", "c7c7c7", "808080"],
+			"defaultSecondaryColors" : ["ffce3b", "ffbd4c", "ffa408", "ff8e10"],
 			"animationCustom" : {
 				"animatedParts" : { "parts" : { "bodyFront" : { "properties" : {
 					"sitPosition" : [1.9, 0.3]
@@ -30,14 +32,16 @@
 				"energy" : 7,
 				"protection" : 8 
 			},
-			"partParameters" : {},
+			"partParameters" : {
+        "hazardImmunities" : ["biomeradiation", "biomeheat", "biomecold"]
+      },
 			"partImages" : {
 				"bodyBack" : "body/avali_back.png",
 				"bodyFront" : "body/avali_proto_front.png",
 				"bodyFullbright" : "body/avali_fullbright.png"
 			},
-			"defaultPrimaryColors" : ["ffdfb3", "fcb95e", "c47027", "994d1b"],
-			"defaultSecondaryColors" : ["bb2f3c", "bb2f3c", "8e212c", "000000"],
+			"defaultPrimaryColors" : ["f0f0f0", "cecece", "c7c7c7", "808080"],
+			"defaultSecondaryColors" : ["ffce3b", "ffbd4c", "ffa408", "ff8e10"],
 			"animationCustom" : {
 				"animatedParts" : { "parts" : { "bodyFront" : { "properties" : {
 					"sitPosition" : [1.9, 0.3]
@@ -53,14 +57,16 @@
 				"energy" : 7,
 				"protection" : 6 
 			},
-			"partParameters" : {},
+			"partParameters" : {
+        "hazardImmunities" : ["biomeradiation", "biomeheat", "biomecold"]
+      },
 			"partImages" : {
 				"bodyBack" : "body/avali_back.png",
 				"bodyFront" : "body/avali_nezo_front.png",
 				"bodyFullbright" : "body/avali_fullbright.png"
 			},
-			"defaultPrimaryColors" : ["ffdfb3", "fcb95e", "c47027", "994d1b"],
-			"defaultSecondaryColors" : ["bb2f3c", "bb2f3c", "8e212c", "000000"],
+			"defaultPrimaryColors" : ["f0f0f0", "cecece", "c7c7c7", "808080"],
+			"defaultSecondaryColors" : ["ffce3b", "ffbd4c", "ffa408", "ff8e10"],
 			"animationCustom" : {
 				"animatedParts" : { "parts" : { "bodyFront" : { "properties" : {
 					"sitPosition" : [1.9, 0.3]
