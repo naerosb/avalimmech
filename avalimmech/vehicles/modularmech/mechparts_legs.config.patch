@@ -17,8 +17,8 @@
 				"frontLegJoint" : "legjoint/avali.png",
 				"hips" : "hips/avali.png"
 			},
-			"defaultPrimaryColors" : ["b2e89d", "51bd3b", "247824", "144216"],
-			"defaultSecondaryColors" : ["838383", "555555", "383838", "151515"],
+			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
+			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
 			"animationCustom" : {
 				"animatedParts" : { "parts" : {
 					"frontLegFullbright" : { "properties" : {

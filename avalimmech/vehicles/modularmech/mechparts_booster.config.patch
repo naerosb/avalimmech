@@ -16,8 +16,8 @@
 			  "frontBoosterFullbright" : "boosterflame/avali_front_flames.png",
 			  "frontBoosterFront" : "booster/avali_front_front.png"
 			},
-			"defaultPrimaryColors" : ["f0f0f0", "c7c7c7", "969696", "696a6a"],
-			"defaultSecondaryColors" : ["ffbd4c", "f48000", "404040", "000000"],
+			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
+			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
 			"animationCustom" : {
 			  "animatedParts" : { "parts" : {
           "frontBoosterFullbright" : { "properties" : {
@@ -49,8 +49,8 @@
 			  "frontBoosterFullbright" : "boosterflame/avali_proto_front_flames.png",
 			  "frontBoosterFront" : "booster/avali_proto_front_front.png"
 			},
-			"defaultPrimaryColors" : ["f4988c", "d93a3a", "932625", "601119"],
-			"defaultSecondaryColors" : ["9da8af", "676f83", "3d3d51", "24232f"],
+			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
+			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
 			"animationCustom" : {
 			  "animatedParts" : { "parts" : {
           "frontBoosterFullbright" : { "properties" : {
@@ -82,8 +82,8 @@
 			  "frontBoosterFullbright" : "boosterflame/avali_nezo_front_flames.png",
 			  "frontBoosterFront" : "booster/avali_nezo_front_front.png"
 			},
-			"defaultPrimaryColors" : ["f4988c", "d93a3a", "932625", "601119"],
-			"defaultSecondaryColors" : ["9da8af", "676f83", "3d3d51", "24232f"],
+			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
+			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
 			"animationCustom" : {
 			  "animatedParts" : { "parts" : {
           "frontBoosterFullbright" : { "properties" : {
