@@ -16,3 +16,9 @@ But honestly, for the most part, I don't quite care.
 
 The changelog here details notable changes in a short and sweet manner. Always see the releases or change notes on steam for more detailed information about additions, modifications or removals.
 
+### The Develop Branch
+
+This branch holds all the work I am doing on the mod. You're free to use the packed mod from this branch, but you must keep in mind that work might be unpolished, incomplete or outright broken. 
+
+Do this only if you feel courageous, curious or want to help development. 
+
