@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Shading on mech parts.
 - Textures on bodies and boosters.
 
-## [0.3.0] - 2015-12-03
+## [0.3.0] - 2017-06-21
 ### Added
 - Two new variants of the mech, boosters included.
 
