@@ -4,7 +4,7 @@ For general information not regarding source, check out the steam workshop [page
 
 ### Issues
 
-Though I can encourage issues to be discussed on the steam workshop page, I hold nothing against issues being posted through here.
+Though I encourage issues to be discussed on the steam workshop page, I hold nothing against issues being posted through here.
 
 ### The Source
 
