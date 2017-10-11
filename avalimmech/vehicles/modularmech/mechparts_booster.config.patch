@@ -1,35 +1,23 @@
 [
 	{
 		"op" : "add",
-		"path" : "/mechboosteravali",
+		"path" : "/mechboosternaerowasp",
 		"value" : {
 			"stats" : {
-			  "speed" : 7,
+			  "speed" : 5,
 			  "control" : 5 
 			},
 			"partParameters" : {},
 			"partImages" : {
-			  "backBoosterBack" : "booster/avali_back_back.png",
-			  "backBoosterFullbright" : "boosterflame/avali_back_flames.png",
-			  "backBoosterFront" : "booster/avali_back_front.png",
-			  "frontBoosterBack" : "booster/avali_front_back.png",
-			  "frontBoosterFullbright" : "boosterflame/avali_front_flames.png",
-			  "frontBoosterFront" : "booster/avali_front_front.png"
+			  "backBoosterBack" : "booster/naero_wasp_back_back.png",
+			  "backBoosterFullbright" : "boosterflame/naero_wasp_back_flames.png",
+			  "backBoosterFront" : "booster/naero_wasp_back_front.png",
+			  "frontBoosterBack" : "booster/naero_wasp_front_back.png",
+			  "frontBoosterFullbright" : "boosterflame/naero_wasp_front_flames.png",
+			  "frontBoosterFront" : "booster/naero_wasp_front_front.png"
 			},
 			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
-			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
-			"animationCustom" : {
-			  "animatedParts" : { "parts" : {
-          "frontBoosterFullbright" : { "properties" : {
-            "offset" : [-3.1, -0.15],
-            "zLevel" : 10.5
-          }},
-          "backBoosterFullbright" : { "properties" : {
-              "offset" : [1.5, -0.15],
-              "zLevel": 1 
-          }}
-			  }} // animatedParts
-			} // animatedCustom
+			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"]
 		}
 	},
 	{
@@ -37,7 +25,7 @@
 		"path" : "/mechboosteravaliproto",
 		"value" : {
 			"stats" : {
-			  "speed" : 7,
+			  "speed" : 6,
 			  "control" : 6 
 			},
 			"partParameters" : {},
@@ -70,8 +58,8 @@
 		"path" : "/mechboosteravalinezo",
 		"value" : {
 			"stats" : {
-			  "speed" : 7,
-			  "control" : 8 
+			  "speed" : 5,
+			  "control" : 7 
 			},
 			"partParameters" : {},
 			"partImages" : {
