@@ -1,7 +1,7 @@
 [
 	{
 		"op" : "add",
-		"path" : "/mechboosternaerowasp",
+		"path" : "/mechboosternaeroa",
 		"value" : {
 			"stats" : {
 			  "speed" : 5,
@@ -22,7 +22,7 @@
 	},
 	{
 		"op" : "add",
-		"path" : "/mechboosteravaliproto",
+		"path" : "/mechboosternaeroap",
 		"value" : {
 			"stats" : {
 			  "speed" : 6,
@@ -30,12 +30,12 @@
 			},
 			"partParameters" : {},
 			"partImages" : {
-			  "backBoosterBack" : "booster/avali_back_back.png",
+			  "backBoosterBack" : "booster/naero_wasp_back_back.png",
 			  "backBoosterFullbright" : "boosterflame/avali_proto_back_flames.png",
-			  "backBoosterFront" : "booster/avali_proto_back_front.png",
-			  "frontBoosterBack" : "booster/avali_front_back.png",
+			  "backBoosterFront" : "booster/naero_wasp_proto_back_front.png",
+			  "frontBoosterBack" : "booster/naero_wasp_front_back.png",
 			  "frontBoosterFullbright" : "boosterflame/avali_proto_front_flames.png",
-			  "frontBoosterFront" : "booster/avali_proto_front_front.png"
+			  "frontBoosterFront" : "booster/naero_wasp_proto_front_front.png"
 			},
 			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
 			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
@@ -55,7 +55,7 @@
 	},
 	{
 		"op" : "add",
-		"path" : "/mechboosteravalinezo",
+		"path" : "/mechboosternaeroan",
 		"value" : {
 			"stats" : {
 			  "speed" : 5,
@@ -63,12 +63,12 @@
 			},
 			"partParameters" : {},
 			"partImages" : {
-			  "backBoosterBack" : "booster/avali_back_back.png",
+			  "backBoosterBack" : "booster/naero_wasp_back_back.png",
 			  "backBoosterFullbright" : "boosterflame/avali_nezo_back_flames.png",
-			  "backBoosterFront" : "booster/avali_nezo_back_front.png",
+			  "backBoosterFront" : "booster/naero_nezo_back_front.png",
 			  "frontBoosterBack" : "booster/avali_front_back.png",
 			  "frontBoosterFullbright" : "boosterflame/avali_nezo_front_flames.png",
-			  "frontBoosterFront" : "booster/avali_nezo_front_front.png"
+			  "frontBoosterFront" : "booster/naero_wasp_nezo_front_front.png"
 			},
 			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
 			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
