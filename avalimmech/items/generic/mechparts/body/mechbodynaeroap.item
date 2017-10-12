@@ -6,9 +6,9 @@
   "category" : "mechPart",
   "tooltipKind" : "mechbody",
   "builder" : "/items/buildscripts/buildmechpart.lua",
-  "inventoryIcon" : "mechbodyavaliproto.png",
+  "inventoryIcon" : "mechbodynaeroap.png",
   "description" : "This prototype is a newer version of the MM4 assault mech. Is it stable?",
-  "shortdescription" : "MM5-AP Wasp Body",
+  "shortdescription" : "MM4-AP Wasp Body",
   "itemTags" : [ ],
 
   "mechPart" : ["body", "mechbodyavaliproto"]

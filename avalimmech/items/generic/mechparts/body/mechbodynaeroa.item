@@ -6,8 +6,8 @@
   "category" : "mechPart",
   "tooltipKind" : "mechbody",
   "builder" : "/items/buildscripts/buildmechpart.lua",
-  "inventoryIcon" : "mechbodyavali.png",
-  "description" : "The Avali Wasp excels at tasks that need speed. Great at shock and awe.",
+  "inventoryIcon" : "mechbodynaeroa.png",
+  "description" : "The Wasp excels at tasks that need speed. Great at shock and awe.",
   "shortdescription" : "MM4-A Wasp Body",
   "itemTags" : [ ],
 

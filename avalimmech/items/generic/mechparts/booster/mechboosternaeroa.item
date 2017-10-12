@@ -6,10 +6,10 @@
   "category" : "mechPart",
   "tooltipKind" : "mechbooster",
   "builder" : "/items/buildscripts/buildmechpart.lua",
-  "inventoryIcon" : "mechboosteravali.png",
-  "description" : "Special Avali thrusters allow for superior boost at a cost of control.",
+  "inventoryIcon" : "mechboosternaeroa.png",
+  "description" : "Special thrusters allow for superior boost at a cost of control.",
   "shortdescription" : "MM4-A Wasp Boosters",
   "itemTags" : [ ],
 
-  "mechPart" : ["booster", "mechboosteravali"]
+  "mechPart" : ["booster", "mechboosternaeroa"]
 }

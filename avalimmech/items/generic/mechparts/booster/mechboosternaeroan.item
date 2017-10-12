@@ -6,10 +6,10 @@
   "category" : "mechPart",
   "tooltipKind" : "mechbooster",
   "builder" : "/items/buildscripts/buildmechpart.lua",
-  "inventoryIcon" : "mechboosteravalinezo.png",
+  "inventoryIcon" : "mechboosternaeroan.png",
   "description" : "These boosters have some specially crafted thrusters for some extra control.",
-  "shortdescription" : "MM4-N Wasp Boosters",
+  "shortdescription" : "MM4-AN Wasp Boosters",
   "itemTags" : [ ],
 
-  "mechPart" : ["booster", "mechboosteravalinezo"]
+  "mechPart" : ["booster", "mechboosternaeroan"]
 }

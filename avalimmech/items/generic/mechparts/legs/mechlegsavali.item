@@ -6,7 +6,7 @@
   "category" : "mechPart",
   "tooltipKind" : "mechlegs",
   "builder" : "/items/buildscripts/buildmechpart.lua",
-  "inventoryIcon" : "mechlegsavali.png",
+  "inventoryIcon" : "mechlegsnaeroa.png",
   "description" : "The Wasp's leggings utilize advanced leg joints, allowing for faster movement.",
   "shortdescription" : "MM4-A Wasp Legs",
   "itemTags" : [ ],

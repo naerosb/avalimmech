@@ -6,9 +6,9 @@
   "category" : "mechPart",
   "tooltipKind" : "mechbody",
   "builder" : "/items/buildscripts/buildmechpart.lua",
-  "inventoryIcon" : "mechbodyavalinezo.png",
+  "inventoryIcon" : "mechbodynaeroan.png",
   "description" : "Whoever that Nezo is either likes intricate decals or was just running out of paint.",
-  "shortdescription" : "MM4-N Wasp Body",
+  "shortdescription" : "MM4-AN Wasp Body",
   "itemTags" : [ ],
 
   "mechPart" : ["body", "mechbodyavalinezo"]
