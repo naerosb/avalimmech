@@ -11,5 +11,5 @@
   "shortdescription" : "MM4-AP Wasp Body",
   "itemTags" : [ ],
 
-  "mechPart" : ["body", "mechbodyavaliproto"]
+  "mechPart" : ["body", "mechbodynaeroap"]
 }

@@ -9,12 +9,12 @@
 			},
 			"partParameters" : {},
 			"partImages" : {
-			  "backBoosterBack" : "booster/naero_wasp_back_back.png",
-			  "backBoosterFullbright" : "boosterflame/naero_wasp_back_flames.png",
-			  "backBoosterFront" : "booster/naero_wasp_back_front.png",
-			  "frontBoosterBack" : "booster/naero_wasp_front_back.png",
-			  "frontBoosterFullbright" : "boosterflame/naero_wasp_front_flames.png",
-			  "frontBoosterFront" : "booster/naero_wasp_front_front.png"
+			  "backBoosterBack" : "booster/naero_a_back_back.png",
+			  "backBoosterFullbright" : "boosterflame/naero_a_back_flames.png",
+			  "backBoosterFront" : "booster/naero_a_back_front.png",
+			  "frontBoosterBack" : "booster/naero_a_front_back.png",
+			  "frontBoosterFullbright" : "boosterflame/naero_a_front_flames.png",
+			  "frontBoosterFront" : "booster/naero_a_front_front.png"
 			},
 			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
 			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
@@ -40,12 +40,12 @@
 			},
 			"partParameters" : {},
 			"partImages" : {
-			  "backBoosterBack" : "booster/naero_wasp_back_back.png",
-			  "backBoosterFullbright" : "boosterflame/naero_wasp_proto_back_flames.png",
-			  "backBoosterFront" : "booster/naero_wasp_proto_back_front.png",
-			  "frontBoosterBack" : "booster/naero_wasp_front_back.png",
-			  "frontBoosterFullbright" : "boosterflame/naero_wasp_proto_front_flames.png",
-			  "frontBoosterFront" : "booster/naero_wasp_proto_front_front.png"
+			  "backBoosterBack" : "booster/naero_a_back_back.png",
+			  "backBoosterFullbright" : "boosterflame/naero_ap_back_flames.png",
+			  "backBoosterFront" : "booster/naero_ap_back_front.png",
+			  "frontBoosterBack" : "booster/naero_a_front_back.png",
+			  "frontBoosterFullbright" : "boosterflame/naero_ap_front_flames.png",
+			  "frontBoosterFront" : "booster/naero_ap_front_front.png"
 			},
 			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
 			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
@@ -71,12 +71,12 @@
 			},
 			"partParameters" : {},
 			"partImages" : {
-			  "backBoosterBack" : "booster/naero_wasp_back_back.png",
-			  "backBoosterFullbright" : "boosterflame/naero_wasp_nezo_back_flames.png",
-			  "backBoosterFront" : "booster/naero_wasp_nezo_back_front.png",
-			  "frontBoosterBack" : "booster/naero_wasp_front_back.png",
-			  "frontBoosterFullbright" : "boosterflame/naero_wasp_nezo_front_flames.png",
-			  "frontBoosterFront" : "booster/naero_wasp_nezo_front_front.png"
+			  "backBoosterBack" : "booster/naero_a_back_back.png",
+			  "backBoosterFullbright" : "boosterflame/naero_an_back_flames.png",
+			  "backBoosterFront" : "booster/naero_an_back_front.png",
+			  "frontBoosterBack" : "booster/naero_a_front_back.png",
+			  "frontBoosterFullbright" : "boosterflame/naero_an_front_flames.png",
+			  "frontBoosterFront" : "booster/naero_an_front_front.png"
 			},
 			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
 			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],

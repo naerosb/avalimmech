@@ -1,7 +1,7 @@
 [
 	{
 		"op" : "add",
-		"path" : "/mechlegsavali",
+		"path" : "/mechlegsnaeroa",
 		"value" : {
 			"stats" : {
 				"speed" : 8,
@@ -9,13 +9,13 @@
 			},
 			"partParameters" : {},
 			"partImages" : {
-				"backLeg" : "leg/avali.png",
-				"backLegFullbright" : "leg/avali_fullbright.png",
-				"backLegJoint" : "legjoint/avali.png",
-				"frontLeg" : "leg/avali.png",
-				"frontLegFullbright" : "leg/avali_fullbright.png",
-				"frontLegJoint" : "legjoint/avali.png",
-				"hips" : "hips/avali.png"
+				"backLeg" : "leg/naero_a.png",
+				"backLegFullbright" : "leg/naero_a_fullbright.png",
+				"backLegJoint" : "legjoint/naero_a.png",
+				"frontLeg" : "leg/naero_a.png",
+				"frontLegFullbright" : "leg/naero_a_fullbright.png",
+				"frontLegJoint" : "legjoint/naero_a.png",
+				"hips" : "hips/naero_a.png"
 			},
 			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
 			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
