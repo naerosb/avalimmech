@@ -4,11 +4,11 @@
 		"path" : "/mechbodynaeroa",
 		"value" : {
 			"stats" : {
-				"energy" : 7,
+				"energy" : 5,
 				"protection" : 5 
 			},
 			"partParameters" : {
-        "hazardImmunities" : ["biomeradiation", "biomeheat", "biomecold"]
+        "hazardImmunities" : ["biomeradiation", "biomecold"]
       },
 			"partImages" : {
 				"bodyBack" : "body/naero_a_back.png",
@@ -29,8 +29,8 @@
 		"path" : "/mechbodynaeroap",
 		"value" : {
 			"stats" : {
-				"energy" : 7,
-				"protection" : 8 
+				"energy" : 5,
+				"protection" : 7 
 			},
 			"partParameters" : {
         "hazardImmunities" : ["biomeradiation", "biomeheat", "biomecold"]
@@ -55,7 +55,7 @@
 		"value" : {
 			"stats" : {
 				"energy" : 7,
-				"protection" : 6 
+				"protection" : 5 
 			},
 			"partParameters" : {
         "hazardImmunities" : ["biomeradiation", "biomeheat", "biomecold"]

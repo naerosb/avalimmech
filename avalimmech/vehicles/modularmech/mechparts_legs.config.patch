@@ -4,8 +4,8 @@
 		"path" : "/mechlegsnaeroa",
 		"value" : {
 			"stats" : {
-				"speed" : 8,
-				"jump" :6
+				"speed" : 6,
+				"jump" : 6 
 			},
 			"partParameters" : {},
 			"partImages" : {
