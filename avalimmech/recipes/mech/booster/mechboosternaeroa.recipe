@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "refinedferozium", "count" : 30 },
+    { "item" : "refinedferozium", "count" : 20 },
     { "item" : "salvagebooster", "count" : 40},
-    { "item" : "salvagetier6", "count" : 20}
+    { "item" : "salvagetier6", "count" : 15}
   ],
   "duration" : 5,
   "output" : { "item" : "mechboosteravali", "count" : 1 },
