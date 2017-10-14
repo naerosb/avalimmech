@@ -37,8 +37,8 @@
       },
 			"partImages" : {
 				"bodyBack" : "body/naero_a_back.png",
-				"bodyFront" : "body/naero_a_front.png",
-				"bodyFullbright" : "body/naero_ap_fullbright_proto.png"
+				"bodyFront" : "body/naero_ap_front.png",
+				"bodyFullbright" : "body/naero_ap_fullbright.png"
 			},
 			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
 			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
