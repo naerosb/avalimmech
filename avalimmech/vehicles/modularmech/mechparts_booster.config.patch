@@ -1,31 +1,29 @@
 [
 	{
 		"op" : "add",
-		"path" : "/mechboosteravali",
+		"path" : "/mechboosternaeroa",
 		"value" : {
 			"stats" : {
-			  "speed" : 7,
+			  "speed" : 5,
 			  "control" : 5 
 			},
 			"partParameters" : {},
 			"partImages" : {
-			  "backBoosterBack" : "booster/avali_back_back.png",
-			  "backBoosterFullbright" : "boosterflame/avali_back_flames.png",
-			  "backBoosterFront" : "booster/avali_back_front.png",
-			  "frontBoosterBack" : "booster/avali_front_back.png",
-			  "frontBoosterFullbright" : "boosterflame/avali_front_flames.png",
-			  "frontBoosterFront" : "booster/avali_front_front.png"
+			  "backBoosterBack" : "booster/naero_a_back_back.png",
+			  "backBoosterFullbright" : "boosterflame/naero_a_back_flames.png",
+			  "backBoosterFront" : "booster/naero_a_back_front.png",
+			  "frontBoosterBack" : "booster/naero_a_front_back.png",
+			  "frontBoosterFullbright" : "boosterflame/naero_a_front_flames.png",
+			  "frontBoosterFront" : "booster/naero_a_front_front.png"
 			},
 			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
 			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
 			"animationCustom" : {
 			  "animatedParts" : { "parts" : {
           "frontBoosterFullbright" : { "properties" : {
-            "offset" : [-3.1, -0.15],
             "zLevel" : 10.5
           }},
           "backBoosterFullbright" : { "properties" : {
-              "offset" : [1.5, -0.15],
               "zLevel": 1 
           }}
 			  }} // animatedParts
@@ -34,31 +32,29 @@
 	},
 	{
 		"op" : "add",
-		"path" : "/mechboosteravaliproto",
+		"path" : "/mechboosternaeroap",
 		"value" : {
 			"stats" : {
-			  "speed" : 7,
+			  "speed" : 6,
 			  "control" : 6 
 			},
 			"partParameters" : {},
 			"partImages" : {
-			  "backBoosterBack" : "booster/avali_back_back.png",
-			  "backBoosterFullbright" : "boosterflame/avali_proto_back_flames.png",
-			  "backBoosterFront" : "booster/avali_proto_back_front.png",
-			  "frontBoosterBack" : "booster/avali_front_back.png",
-			  "frontBoosterFullbright" : "boosterflame/avali_proto_front_flames.png",
-			  "frontBoosterFront" : "booster/avali_proto_front_front.png"
+			  "backBoosterBack" : "booster/naero_a_back_back.png",
+			  "backBoosterFullbright" : "boosterflame/naero_ap_back_flames.png",
+			  "backBoosterFront" : "booster/naero_ap_back_front.png",
+			  "frontBoosterBack" : "booster/naero_a_front_back.png",
+			  "frontBoosterFullbright" : "boosterflame/naero_ap_front_flames.png",
+			  "frontBoosterFront" : "booster/naero_ap_front_front.png"
 			},
 			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
 			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
 			"animationCustom" : {
 			  "animatedParts" : { "parts" : {
           "frontBoosterFullbright" : { "properties" : {
-            "offset" : [-3.1, -0.15],
             "zLevel" : 10.5
           }},
           "backBoosterFullbright" : { "properties" : {
-              "offset" : [1.5, -0.15],
               "zLevel": 1 
           }}
 			  }} // animatedParts
@@ -67,31 +63,29 @@
 	},
 	{
 		"op" : "add",
-		"path" : "/mechboosteravalinezo",
+		"path" : "/mechboosternaeroan",
 		"value" : {
 			"stats" : {
-			  "speed" : 7,
-			  "control" : 8 
+			  "speed" : 5,
+			  "control" : 7 
 			},
 			"partParameters" : {},
 			"partImages" : {
-			  "backBoosterBack" : "booster/avali_back_back.png",
-			  "backBoosterFullbright" : "boosterflame/avali_nezo_back_flames.png",
-			  "backBoosterFront" : "booster/avali_nezo_back_front.png",
-			  "frontBoosterBack" : "booster/avali_front_back.png",
-			  "frontBoosterFullbright" : "boosterflame/avali_nezo_front_flames.png",
-			  "frontBoosterFront" : "booster/avali_nezo_front_front.png"
+			  "backBoosterBack" : "booster/naero_a_back_back.png",
+			  "backBoosterFullbright" : "boosterflame/naero_an_back_flames.png",
+			  "backBoosterFront" : "booster/naero_an_back_front.png",
+			  "frontBoosterBack" : "booster/naero_a_front_back.png",
+			  "frontBoosterFullbright" : "boosterflame/naero_an_front_flames.png",
+			  "frontBoosterFront" : "booster/naero_an_front_front.png"
 			},
 			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
 			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
 			"animationCustom" : {
 			  "animatedParts" : { "parts" : {
           "frontBoosterFullbright" : { "properties" : {
-            "offset" : [-3.2, -0.15],
             "zLevel" : 10.5
           }},
           "backBoosterFullbright" : { "properties" : {
-              "offset" : [1.5, -0.15],
               "zLevel": 1 
           }}
 			  }} // animatedParts

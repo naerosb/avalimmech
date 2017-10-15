@@ -1,0 +1,15 @@
+{
+  "itemName" : "mechboosteravali",
+  "price" : 6720,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechbooster",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechboosternaeroa.png",
+  "description" : "Special thrusters allow for superior boost at a cost of control.",
+  "shortdescription" : "MM4-A Wasp Boosters",
+  "itemTags" : [ ],
+
+  "mechPart" : ["booster", "mechboosternaeroa"]
+}

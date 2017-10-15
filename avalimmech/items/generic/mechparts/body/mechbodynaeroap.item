@@ -1,0 +1,15 @@
+{
+  "itemName" : "mechbodyavaliproto",
+  "price" : 15200,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "mechPart",
+  "tooltipKind" : "mechbody",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechbodynaeroap.png",
+  "description" : "This prototype is a newer version of the MM4 assault mech. Is it stable?",
+  "shortdescription" : "MM4-AP Wasp Body",
+  "itemTags" : [ ],
+
+  "mechPart" : ["body", "mechbodynaeroap"]
+}

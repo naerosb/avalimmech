@@ -1,0 +1,15 @@
+{
+  "itemName" : "mechboosteravalinezo",
+  "price" : 9480,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "mechPart",
+  "tooltipKind" : "mechbooster",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechboosternaeroan.png",
+  "description" : "These boosters have some specially crafted thrusters for some extra control.",
+  "shortdescription" : "MM4-AN Wasp Boosters",
+  "itemTags" : [ ],
+
+  "mechPart" : ["booster", "mechboosternaeroan"]
+}

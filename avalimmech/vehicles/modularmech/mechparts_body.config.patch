@@ -1,7 +1,57 @@
 [
 	{
 		"op" : "add",
-		"path" : "/mechbodyavali",
+		"path" : "/mechbodynaeroa",
+		"value" : {
+			"stats" : {
+				"energy" : 5,
+				"protection" : 5 
+			},
+			"partParameters" : {
+        "hazardImmunities" : ["biomeradiation", "biomecold"]
+      },
+			"partImages" : {
+				"bodyBack" : "body/naero_a_back.png",
+				"bodyFront" : "body/naero_a_front.png",
+				"bodyFullbright" : "body/naero_a_fullbright.png"
+			},
+			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
+			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
+			"animationCustom" : {
+				"animatedParts" : { "parts" : { "bodyFront" : { "properties" : {
+					"sitPosition" : [1.9, 0.3]
+				}}}}
+			}
+		}
+  },
+	{
+		"op" : "add",
+		"path" : "/mechbodynaeroap",
+		"value" : {
+			"stats" : {
+				"energy" : 5,
+				"protection" : 7 
+			},
+			"partParameters" : {
+        "hazardImmunities" : ["biomeradiation", "biomeheat", "biomecold"]
+      },
+			"partImages" : {
+				"bodyBack" : "body/naero_a_back.png",
+				"bodyFront" : "body/naero_ap_front.png",
+				"bodyFullbright" : "body/naero_ap_fullbright.png"
+			},
+			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
+			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
+			"animationCustom" : {
+				"animatedParts" : { "parts" : { "bodyFront" : { "properties" : {
+					"sitPosition" : [1.9, 0.3]
+				}}}}
+			}
+		}
+  },
+	{
+		"op" : "add",
+		"path" : "/mechbodynaeroan",
 		"value" : {
 			"stats" : {
 				"energy" : 7,
@@ -11,9 +61,9 @@
         "hazardImmunities" : ["biomeradiation", "biomeheat", "biomecold"]
       },
 			"partImages" : {
-				"bodyBack" : "body/avali_back.png",
-				"bodyFront" : "body/avali_front.png",
-				"bodyFullbright" : "body/avali_fullbright.png"
+				"bodyBack" : "body/naero_a_back.png",
+				"bodyFront" : "body/naero_an_front.png",
+				"bodyFullbright" : "body/naero_a_fullbright.png"
 			},
 			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
 			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
@@ -21,58 +71,8 @@
 				"animatedParts" : { "parts" : { "bodyFront" : { "properties" : {
 					"sitPosition" : [1.9, 0.3]
 				}}}}
-			}
-		}
-    },
-	{
-		"op" : "add",
-		"path" : "/mechbodyavaliproto",
-		"value" : {
-			"stats" : {
-				"energy" : 7,
-				"protection" : 8 
-			},
-			"partParameters" : {
-        "hazardImmunities" : ["biomeradiation", "biomeheat", "biomecold"]
-      },
-			"partImages" : {
-				"bodyBack" : "body/avali_back.png",
-				"bodyFront" : "body/avali_proto_front.png",
-				"bodyFullbright" : "body/avali_fullbright_proto.png"
-			},
-			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
-			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
-			"animationCustom" : {
-				"animatedParts" : { "parts" : { "bodyFront" : { "properties" : {
-					"sitPosition" : [1.9, 0.3]
-				}}}}
-			}
-		}
-    },
-	{
-		"op" : "add",
-		"path" : "/mechbodyavalinezo",
-		"value" : {
-			"stats" : {
-				"energy" : 7,
-				"protection" : 6 
-			},
-			"partParameters" : {
-        "hazardImmunities" : ["biomeradiation", "biomeheat", "biomecold"]
-      },
-			"partImages" : {
-				"bodyBack" : "body/avali_back.png",
-				"bodyFront" : "body/avali_nezo_front.png",
-				"bodyFullbright" : "body/avali_fullbright.png"
-			},
-			"defaultPrimaryColors" : ["e6e6e6", "b6b6b6", "7b7b7b", "373737"],
-			"defaultSecondaryColors" : ["ffd495", "ea9931", "af4e00", "6e2900"],
-			"animationCustom" : {
-				"animatedParts" : { "parts" : { "bodyFront" : { "properties" : {
-					"sitPosition" : [1.9, 0.3]
-				}}}}
-			}
-		}
-    }
+		  }
+	  }
+  }
 ]
 	
