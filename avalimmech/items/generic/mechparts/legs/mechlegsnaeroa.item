@@ -4,7 +4,7 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "mechPart",
-  "tooltipKind" : "naeromechlegs",
+  "tooltipKind" : "mechlegs",
   "builder" : "/items/buildscripts/buildmechpart.lua",
   "inventoryIcon" : "mechlegsnaeroa.png",
   "description" : "The Wasp's leggings utilize advanced leg joints, allowing for faster movement.",

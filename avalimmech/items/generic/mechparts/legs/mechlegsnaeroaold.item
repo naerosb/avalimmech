@@ -4,7 +4,7 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "mechPart",
-  "tooltipKind" : "naeromechlegs",
+  "tooltipKind" : "mechlegs",
   "builder" : "/items/buildscripts/buildmechpart.lua",
   "inventoryIcon" : "mechlegsnaeroa.png",
   "description" : "Use a NAERO Service Terminal (get via architect table) to update item ID.",
