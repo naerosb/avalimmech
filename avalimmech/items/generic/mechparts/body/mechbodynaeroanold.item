@@ -1,5 +1,5 @@
 {
-  "itemName" : "mechbodynaeroan",
+  "itemName" : "mechbodyavalinezo",
   "price" : 15600,
   "maxStack" : 1,
   "rarity" : "Legendary",
@@ -7,8 +7,8 @@
   "tooltipKind" : "mechbody",
   "builder" : "/items/buildscripts/buildmechpart.lua",
   "inventoryIcon" : "mechbodynaeroan.png",
-  "description" : "Whoever that Nezo is either likes intricate decals or was just running out of paint.",
-  "shortdescription" : "MM4-AN Wasp Body",
+  "description" : "Use a NAERO Service Terminal (get via architect table) to update item ID.",
+  "shortdescription" : "MM4-AN Wasp Body (Old)",
   "itemTags" : [ ],
 
   "mechPart" : ["body", "mechbodynaeroan"]

@@ -1,5 +1,5 @@
 {
-  "itemName" : "mechboosternaeroa",
+  "itemName" : "mechboosteravali",
   "price" : 6720,
   "maxStack" : 1,
   "rarity" : "Rare",
@@ -7,8 +7,8 @@
   "tooltipKind" : "mechbooster",
   "builder" : "/items/buildscripts/buildmechpart.lua",
   "inventoryIcon" : "mechboosternaeroa.png",
-  "description" : "Special thrusters allow for superior boost at a cost of control.",
-  "shortdescription" : "MM4-A Wasp Boosters",
+  "description" : "Use a NAERO Service Terminal (get via architect table) to update item ID.",
+  "shortdescription" : "MM4-A Wasp Boosters (Old)",
   "itemTags" : [ ],
 
   "mechPart" : ["booster", "mechboosternaeroa"]

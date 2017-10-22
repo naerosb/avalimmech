@@ -1,5 +1,5 @@
 {
-  "itemName" : "mechlegsnaeroa",
+  "itemName" : "mechlegsavali",
   "price" : 4480,
   "maxStack" : 1,
   "rarity" : "Rare",
@@ -7,8 +7,8 @@
   "tooltipKind" : "naeromechlegs",
   "builder" : "/items/buildscripts/buildmechpart.lua",
   "inventoryIcon" : "mechlegsnaeroa.png",
-  "description" : "The Wasp's leggings utilize advanced leg joints, allowing for faster movement.",
-  "shortdescription" : "MM4-A Wasp Legs",
+  "description" : "Use a NAERO Service Terminal (get via architect table) to update item ID.",
+  "shortdescription" : "MM4-A Wasp Legs (Old)",
   "itemTags" : [ ],
 
   "mechPart" : ["legs", "mechlegsnaeroa"]

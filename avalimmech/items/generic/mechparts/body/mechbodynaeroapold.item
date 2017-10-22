@@ -1,5 +1,5 @@
 {
-  "itemName" : "mechbodynaeroap",
+  "itemName" : "mechbodyavaliproto",
   "price" : 15200,
   "maxStack" : 1,
   "rarity" : "Legendary",
@@ -7,8 +7,8 @@
   "tooltipKind" : "mechbody",
   "builder" : "/items/buildscripts/buildmechpart.lua",
   "inventoryIcon" : "mechbodynaeroap.png",
-  "description" : "This prototype is a newer version of the MM4 assault mech. Is it stable?",
-  "shortdescription" : "MM4-AP Wasp Body",
+  "description" : "Use a NAERO Service Terminal (get via architect table) to update item ID.",
+  "shortdescription" : "MM4-AP Wasp Body (Old)",
   "itemTags" : [ ],
 
   "mechPart" : ["body", "mechbodynaeroap"]

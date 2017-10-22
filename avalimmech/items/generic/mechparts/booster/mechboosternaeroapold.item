@@ -1,5 +1,5 @@
 {
-  "itemName" : "mechboosternaeroap",
+  "itemName" : "mechboosteravaliproto",
   "price" : 9480,
   "maxStack" : 1,
   "rarity" : "Legendary",
@@ -7,8 +7,8 @@
   "tooltipKind" : "mechbooster",
   "builder" : "/items/buildscripts/buildmechpart.lua",
   "inventoryIcon" : "mechboosternaeroap.png",
-  "description" : "Boosters mean business when they've got flaps on them. We think...",
-  "shortdescription" : "MM4-AP Wasp Boosters",
+  "description" : "Use a NAERO Service Terminal (get via architect table) to update item ID.",
+  "shortdescription" : "MM4-AP Wasp Boosters (Old)",
   "itemTags" : [ ],
 
   "mechPart" : ["booster", "mechboosternaeroap"]
