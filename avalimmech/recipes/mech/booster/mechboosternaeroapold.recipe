@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "mechboosteravaliproto", "count" : 1}
+  ],
+  "duration" : 1,
+  "output" : { "item" : "mechboosternaeroap", "count" : 1 },
+  "groups" : [ "naerocraftingmech", "mechbooster" ]
+}

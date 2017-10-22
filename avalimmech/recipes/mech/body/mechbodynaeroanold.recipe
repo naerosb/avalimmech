@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "mechbodyavalinezo", "count" : 1}
+  ],
+  "duration" : 1,
+  "output" : { "item" : "mechbodynaeroan", "count" : 1 },
+  "groups" : [ "naerocraftingmech", "mechbody" ]
+}
