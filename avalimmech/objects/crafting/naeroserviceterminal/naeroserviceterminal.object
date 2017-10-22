@@ -1,0 +1,46 @@
+{
+"objectName" : "naeroserviceterminal",
+"colonyTags" : ["crafting","electronic"],
+"rarity" : "Uncommon",
+"price" : 2500,
+"interactAction" : "OpenCraftingInterface",
+"interactData" : {
+  "config" : "/interface/windowconfig/naerocraftingmech.config"
+},
+"printable" : false,
+"description" : "A NAERO service terimnal for all your NAERO product-based needs.",
+"shortdescription" : "^orange;NAERO Service Terimnal^white;",
+"race" : "generic",
+"category" : "crafting",
+
+//"lightColor" : [179, 103, 62],
+
+//"flickerPeriod" : 0.3,
+//"flickerMinIntensity" : 0.95,
+//"flickerMaxIntensity" : 1,
+//"flickerPeriodVariance" : 0.075,
+//"flickerIntensityVariance" : 0.025,
+
+
+"apexDescription" : "...",
+"avianDescription" : "...",
+"floranDescription" : "...",
+"glitchDescription" : "...",
+"humanDescription" : "...",
+"hylotlDescription" : "...",
+"novakidDescription" : "...",
+
+"inventoryIcon" : "naeroserviceterminalicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "naeroserviceterminal.png:<color>",
+      
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}
