@@ -3,9 +3,9 @@
     { "item" : "solariumstar", "count" : 10 },
     { "item" : "salvagebody", "count" : 25 },
     { "item" : "salvagetier6", "count" : 15 },
-    { "item" : "mechbodyavali", "count" : 1}
+    { "item" : "mechbodynaeroa", "count" : 1}
   ],
   "duration" : 5,
-  "output" : { "item" : "mechbodyavaliproto", "count" : 1 },
+  "output" : { "item" : "mechbodynaeroap", "count" : 1 },
   "groups" : [ "craftingmech", "mechbody" ]
 }

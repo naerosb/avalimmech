@@ -3,9 +3,9 @@
     { "item" : "refinedferozium", "count" : 10 },
     { "item" : "salvagebooster", "count" : 10},
     { "item" : "salvagetier6", "count" : 10},
-    { "item" : "mechboosteravali", "count" : 1}
+    { "item" : "mechboosternaeroa", "count" : 1}
   ],
   "duration" : 5,
-  "output" : { "item" : "mechboosteravaliproto", "count" : 1 },
+  "output" : { "item" : "mechboosternaeroap", "count" : 1 },
   "groups" : [ "craftingmech", "mechbooster" ]
 }

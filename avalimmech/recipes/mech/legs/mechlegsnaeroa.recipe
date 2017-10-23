@@ -5,6 +5,6 @@
     { "item" : "salvagetier6", "count" : 10}
   ],
   "duration" : 5,
-  "output" : { "item" : "mechlegsavali", "count" : 1 },
+  "output" : { "item" : "mechlegsnaeroa", "count" : 1 },
   "groups" : [ "craftingmech", "mechlegs" ]
 }
